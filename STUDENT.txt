@@ -1,1 +1,1 @@
-APP_URL=<url_aplikasi>
+APP_URL=https://bowoan01.github.io/StoryApp/

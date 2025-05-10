@@ -3,8 +3,6 @@ import { resolve } from "path";
 import { VitePWA } from "vite-plugin-pwa";
 
 export default defineConfig({
-  // ✅ Ini penting untuk GitHub Pages
-  // Ganti 'StoryApp' sesuai dengan nama repo kamu di GitHub
   base: '/StoryApp/',
 
   plugins: [
